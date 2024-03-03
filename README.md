@@ -8,7 +8,7 @@ Competent data scientist with 5+ years of experience combining computational and
   - Masters in Applied Mathematics, Arizona State University
 
 ### Work Experience
-2019 - 2022 Research Fellow, National Institutes of Health
+August 2019 - April 2022 | Research Fellow, National Institutes of Health
   - Developed analysis pipelines to streamline the identification of cancer risk-associated variants from multi-dimensional genomic data.
   - Created custom Bash and R scripts for cleaning, extracting, formatting, and processing several terabytes of complex data.
   - Applied high-performance computing techniques to optimize efficiency of jobs submit to the NIH compute cluster.

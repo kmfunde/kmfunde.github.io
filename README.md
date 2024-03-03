@@ -24,4 +24,7 @@ I have done many things, but here are a select few.
 
 Here is a personal project that I did one day because I was bored. 
 
+You can find the code and more details [here](https://github.com/kmfunde/kmfunde.github.io/tree/e16be00cd0d969b659560c1f3d795799e5cb6f0b/projects/examples)
+
+
 ![pp1](./projects/lr.gif)

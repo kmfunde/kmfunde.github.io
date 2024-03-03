@@ -17,4 +17,11 @@ August 2019 - April 2022 | Research Fellow, National Institutes of Health
 
 
 ## Projects
+I have done many things, but here are a select few.
 
+
+#### Personal Project \#1
+
+Here is a personal project that I did one day because I was bored. 
+
+![pp1](./projects/lr.gif)

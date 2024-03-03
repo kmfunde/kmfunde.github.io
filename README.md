@@ -25,7 +25,7 @@ I have done many things, but here are a select few.
 Here is a personal project that I did one day because I was bored. 
 This is an animation showing the process of finding the line of best fit for a least squares linear regression.
 
-![pp1](./projects/lr.gif)
+![pp1](./projects/examples/lr.gif)
 
 You can find the code used to generate this graphic and more details [here] (https://github.com/kmfunde/kmfunde.github.io/tree/e16be00cd0d969b659560c1f3d795799e5cb6f0b/projects/examples).
 

@@ -3,11 +3,11 @@
 Competent data scientist with 5+ years of experience combining computational and quantitative analysis skills to address complex research questions. Proficient in data mining, data processing, and statistical modeling with R and Python to extract pertinent information from big data sources.
 
 
-### Education
+## Education
   - Bachelors in Mathematics and Biology, University of North Carolina at Greensboro
   - Masters in Applied Mathematics, Arizona State University
 
-### Work Experience
+## Work Experience
 August 2019 - April 2022 | Research Fellow, National Institutes of Health
   - Developed analysis pipelines to streamline the identification of cancer risk-associated variants from multi-dimensional genomic data.
   - Created custom Bash and R scripts for cleaning, extracting, formatting, and processing several terabytes of complex data.
@@ -16,5 +16,5 @@ August 2019 - April 2022 | Research Fellow, National Institutes of Health
   - Employed advanced data visualization tools to communicate key results to collaborators and other non-experts.
 
 
-### Projects
+## Projects
 

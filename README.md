@@ -2,7 +2,9 @@
 
 ### Education
 B.S. Biology, University of North Carolina at Greensboro
+
 B.A. Mathematics, University of North Carolina at Greensboro
+
 M.S. Applied Mathematics, Arizona State University
 
 ### Work Experience

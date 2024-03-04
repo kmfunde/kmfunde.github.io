@@ -28,3 +28,14 @@ This is an animation showing the process of finding the line of best fit for a l
 
 
 
+
+## Publications
+  1. Publication number 1
+  2. Publication number 2
+  3. Publication number 3
+
+
+  [Google Scholar Profile](https://scholar.google.com)
+
+
+

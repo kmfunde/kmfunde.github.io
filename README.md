@@ -4,8 +4,8 @@ Competent data scientist with 5+ years of experience combining computational and
 
 
 ## Education
-  - Bachelors in Mathematics and Biology, University of North Carolina at Greensboro
-  - Masters in Applied Mathematics, Arizona State University
+  - Masters in Applied Mathematics, Arizona State University | May 2019
+  - Bachelors in Mathematics and Biology, University of North Carolina at Greensboro | May 2017
 
 ## Work Experience
 August 2019 - April 2022 | Research Fellow, National Institutes of Health

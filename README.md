@@ -34,7 +34,9 @@ This is another thing I did because I was bored. More details and the code used 
 
 
 ## Publications
-  1. Publication number 1
-  2. Publication number 2
-  3. Publication number 3
+  1. **Funderburk, K.**, Bang-Christensen, S. R., Miller, B. F., Tan, H., Margolin, G., Petrykowska, H. M., ... & Elnitski, L. (2023). Evaluating Stacked Methylation Markers for Blood-Based Multicancer Detection. *Cancers, 15*(19), 4826.
+  2. Long, E., Yin, J., **Funderburk, K. M.**, Xu, M., Feng, J., Kane, A., ... & Choi, J. (2022). Massively parallel reporter assays and variant scoring identified functional variants and target genes for melanoma loci and highlighted cell-type specificity. *The American Journal of Human Genetics, 109*(12), 2210-2229.
+  3. DeLory, T., **Funderburk, K.**, Miller, K., Zuluaga-Smith, W., McPherson, S., Pirk, C. W., ... & Rueppell, O. (2020). Local variation in recombination rates of the honey bee (Apis mellifera) genome among samples from six disparate populations. *Insectes sociaux, 67*, 127-138.
+  4. Kaur, A., **Funderburk, K.**, Campaña, A. L., Puente, P., & Ríos-Soto, K. R. (2019). A household model of German cockroach infestations and their effects on symptoms of atopic asthma. *Letters in Biomathematics, 6*(2), 1-26.
+  5. **Funderburk, K. M.**, Auerbach, S. S., & Bushel, P. R. (2017). Crosstalk between receptor and non-receptor mediated chemical modes of action in rat livers converges through a dysregulated gene expression network at tumor suppressor Tp53. *Frontiers in genetics, 8*, 157.
 

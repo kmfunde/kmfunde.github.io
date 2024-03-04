@@ -26,6 +26,10 @@ Here is a personal project that I did one day because I was bored.
 This is an animation showing the process of finding the line of best fit for a least squares linear regression. The code used to generate this graphic and more details can be found [here](https://github.com/kmfunde/DS-projects/tree/194bda069e9c8220c159d71c3114e7df4835abf9/example-project).
 ![regression-gif](https://github.com/kmfunde/DS-projects/blob/194bda069e9c8220c159d71c3114e7df4835abf9/example-project/lr.gif)
 
+### Time-Series Analysis of Personal Income Trends in Maryland
+
+This is another thing I did because I was bored. More details and the code used can be found [here.](https://github.com/kmfunde/DS-projects/tree/194bda069e9c8220c159d71c3114e7df4835abf9/example-project)
+
 
 
 
@@ -33,9 +37,4 @@ This is an animation showing the process of finding the line of best fit for a l
   1. Publication number 1
   2. Publication number 2
   3. Publication number 3
-
-
-  [Google Scholar Profile](https://scholar.google.com)
-
-
 

@@ -20,7 +20,7 @@ August 2019 - April 2022 | Research Fellow, National Institutes of Health
 I have done many things, but here are a select few.
 
 
-#### Personal Project \#1
+### Personal Project \#1
 
 Here is a personal project that I did one day because I was bored. 
 This is an animation showing the process of finding the line of best fit for a least squares linear regression. The code used to generate this graphic and more details can be found [here](https://github.com/kmfunde/DS-projects/tree/194bda069e9c8220c159d71c3114e7df4835abf9/example-project).

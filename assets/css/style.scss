@@ -27,4 +27,29 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+
+
+ul.socials {
+  position: absolute;
+  width: 210px;
+  z-index: 10;
+  bottom: -40px;
+  right: 0;
+  height: 70px;
+}
+
+.linkedin {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../img/sunflowers.png);
+}
+
+.linkedin:hover {
+  background: url(../img/sunflowers.png);
+}
+
 @import "{{ site.theme }}";

@@ -29,7 +29,7 @@ This is an animation showing the process of finding the line of best fit for a l
 ### Time-Series Analysis of Personal Income Trends in Maryland
 
 This is another thing I did because I was bored. More details and the code used can be found [here.](https://github.com/kmfunde/DS-projects/tree/dc04f76d3725581ef968782216a24770d510e078/personal-income)
-![md-income-gif](project-results/md_personal_income_map.gif)
+![md-income-gif](project-results/md_per_inc_map.gif)
 
 
 

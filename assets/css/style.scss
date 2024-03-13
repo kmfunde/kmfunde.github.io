@@ -31,7 +31,7 @@ footer {
 
 ul.socials {
   width: 210px;
-  bottom: -40px;
+  z-index: 10;
   right: 0;
   height: 70px;
 }
@@ -39,13 +39,13 @@ ul.socials {
 .linkedin {
   display: block;
   float: right;
-  width: 90px;
+  width: 200px;
   height:70px;
   background: url(../img/sunflowers.png);
 }
 
 .linkedin:hover {
-  background: url(../img/sunflowers.png);
+  background: url(../img/headshot.jpg) no-repeat;
 }
 
 @import "{{ site.theme }}";

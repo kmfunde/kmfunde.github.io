@@ -8,6 +8,8 @@ Competent data scientist with 5+ years of experience combining computational and
   - Bachelor's in Mathematics and Biology, UNC Greensboro | May 2017
 
 ## Work Experience
+May 2022 - Present | Data Scientist
+
 August 2019 - April 2022 | Research Fellow, National Institutes of Health
   - Developed analysis pipelines to streamline the identification of cancer risk-associated variants from multi-dimensional genomic data.
   - Created custom Bash and R scripts for cleaning, extracting, formatting, and processing several terabytes of complex data.

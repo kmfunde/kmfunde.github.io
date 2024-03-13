@@ -30,9 +30,7 @@ footer {
 
 
 ul.socials {
-  position: absolute;
   width: 210px;
-  z-index: 10;
   bottom: -40px;
   right: 0;
   height: 70px;
@@ -43,8 +41,6 @@ ul.socials {
   float: right;
   width: 90px;
   height:70px;
-  text-indent: -5000px;
-  overflow: hidden;
   background: url(../img/sunflowers.png);
 }
 

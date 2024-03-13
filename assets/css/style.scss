@@ -45,7 +45,9 @@ ul.socials {
 }
 
 .linkedin:hover {
-  background: url(../img/social-linkedin.svg) no-repeat;
+  width: 200px;
+  height:70px;
+  background: url(../img/linkedin.svg) no-repeat;
 }
 
 @import "{{ site.theme }}";

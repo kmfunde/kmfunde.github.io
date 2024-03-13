@@ -41,11 +41,11 @@ ul.socials {
   float: right;
   width: 200px;
   height:70px;
-  background: url(../img/sunflowers.png);
+  background: url(../img/linkedin-original.svg) no-repeat;
 }
 
 .linkedin:hover {
-  background: url(../img/headshot.jpg) no-repeat;
+  background: url(../img/social-linkedin.svg) no-repeat;
 }
 
 @import "{{ site.theme }}";

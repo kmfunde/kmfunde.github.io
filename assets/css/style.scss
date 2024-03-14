@@ -42,6 +42,7 @@ ul.socials {
 }
 
 .gitprof {
+  display: block;
   width: 50px;
   height:50px;
   background: url(../img/Octicons-mark-github.svg);
@@ -54,6 +55,7 @@ ul.socials {
 }
 
 .linkedin {
+  display: block;
   width: 50px;
   height: 50px;
   background: url(../img/linkedin-original.svg) no-repeat;
@@ -65,3 +67,20 @@ ul.socials {
   width: 55px;
   height:55px;
 }
+
+
+.mailto {
+  display: block;
+  width: 50px;
+  height: 50px;
+  background: url(../img/mail-with-circle-svgrepo-com.svg) no-repeat;
+  margin-left: 10px;
+
+}
+
+.mailto:hover {
+  width: 55px;
+  height:55px;
+}
+
+

@@ -43,6 +43,7 @@ ul.socials {
 
 .gitprof {
   display: block;
+  float:left;
   width: 50px;
   height:50px;
   background: url(../img/Octicons-mark-github.svg);
@@ -56,6 +57,7 @@ ul.socials {
 
 .linkedin {
   display: block;
+  float:left;
   width: 50px;
   height: 50px;
   background: url(../img/linkedin-original.svg) no-repeat;
@@ -66,11 +68,13 @@ ul.socials {
 .linkedin:hover {
   width: 55px;
   height:55px;
+  margin-left: 5px;
 }
 
 
 .mailto {
   display: block;
+  float:left;
   width: 50px;
   height: 50px;
   background: url(../img/mail-with-circle-svgrepo-com.svg) no-repeat;
@@ -81,6 +85,7 @@ ul.socials {
 .mailto:hover {
   width: 55px;
   height:55px;
+  margin-left: 5px
 }
 
 

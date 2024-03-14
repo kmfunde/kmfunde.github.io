@@ -28,12 +28,14 @@ footer {
 }
 
 
+@import "{{ site.theme }}";
+
 
 ul.socials {
   width: 210px;
   z-index: 10;
   right: 0;
-  height: 50px;
+  height: 60px;
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
@@ -68,5 +70,3 @@ ul.socials {
   width: 55px;
   height:55px;
 }
-
-@import "{{ site.theme }}";

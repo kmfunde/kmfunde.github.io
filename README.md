@@ -11,6 +11,9 @@ Competent data scientist with 5+ years of experience combining computational and
 
 ## Work Experience
 #### May 2022 - Present | Data Scientist
+  - Bullet 1
+  - Bullet 2
+  - Bullet 3
 
 #### Aug 2019 - Apr 2022 | Research Fellow, National Institutes of Health
   - Developed analysis pipelines to streamline the identification of cancer risk-associated variants from multi-dimensional genomic data.

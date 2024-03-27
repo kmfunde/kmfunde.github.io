@@ -4,8 +4,8 @@ Competent data scientist with 5+ years of experience combining computational and
 
 
 ## Education
-  - Master's in Applied Mathematics, Arizona State University | May 2019
-  - Bachelor's in Mathematics and Biology, UNC Greensboro | May 2017
+  * Master's in Applied Mathematics <br>Arizona State University | May 2019|
+  * Bachelor's in Mathematics and Biology, UNC Greensboro | May 2017|
 
 ## Work Experience
 #### May 2022 - Present | Data Scientist

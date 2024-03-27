@@ -22,6 +22,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <ul class="socials">
+          <a class='gitprof' href="{{ site.github.owner_url }}"></a>
+          <a class='linkedin' href="{{ site.linked_in }}"></a>
+          <a class='mailto' href="{{ site.mail_to }}"></a>
+        </ul>
+        
         <br>
         <p><br>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -41,11 +47,7 @@
         </ul>
         {% endif %}
 
-        <ul class="socials">
-          <a class='gitprof' href="{{ site.github.owner_url }}"></a>
-          <a class='linkedin' href="{{ site.linked_in }}"></a>
-          <a class='mailto' href="{{ site.mail_to }}"></a>
-        </ul>
+
       </header>
       <section>
 

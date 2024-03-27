@@ -37,34 +37,32 @@ ul.socials {
   z-index: 10;
   right: 0;
   /* float:left; */
+  padding: 10px;
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
 }
 
 .gitprof {
-  display: block;
+  display: inline-block;
   float: left;
   width: 35px;
   height: 35px;
-  padding: 10px;
   background: url(../img/Octicons-mark-github.svg) no-repeat center/100%;
 
 }
 
 .linkedin {
-  display: block;
+  display: inline-block;
   float: left;
   width: 35px;
   height: 35px;
-  padding: 10px;
   background: url(../img/linkedin-original.svg) no-repeat center/100%;
 }
 
 .mailto {
-  display: block;
+  display: inline-block;
   float: left;
-  padding: 10px;
   width: 35px;
   height: 35px;
   background: url(../img/mail-with-circle-svgrepo-com.svg) no-repeat center/100%;

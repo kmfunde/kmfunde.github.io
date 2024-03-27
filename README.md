@@ -4,7 +4,6 @@ Competent data scientist with 5+ years of experience combining computational and
 
 
 ## Education
-    |:---|---:|
   * |Master's in Applied Mathematics | |
     |Arizona State University | May 2019|
   * |Bachelor's in Mathematics & Biology <br>University of NC, Greensboro | May 2017|
